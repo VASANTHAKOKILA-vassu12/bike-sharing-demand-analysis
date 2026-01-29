@@ -66,6 +66,13 @@ To analyze bike-sharing usage patterns and identify factors affecting rider dema
 
 ---
 
+## Report 
+🔹 Designed an interactive Power BI dashboard for bike-sharing data analysis
+🔹 Applied consistent color themes and professional formatting for better readability
+🔹 Added dynamic slicers (Season, Year, Weekday) to enable interactive filtering
+🔹 Visualized rider trends by hour, month, weather, temperature, and rider type
+🔹 Created KPI cards for total riders and average riders
+
 ## 📎 Files Included
 - Dataset (CSV)
 - Power BI dashboard (.pbix)
